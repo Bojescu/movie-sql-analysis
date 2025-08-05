@@ -1,4 +1,4 @@
-# 🎬 SQL-Based Movie Insights – Task 5 Report
+# 🎬 SQL-Based Movie Insights
 
 **Author**: Ana Bojescu  
 **Date**: 2025-04-16  
@@ -92,4 +92,5 @@ The following database tables were queried:
 ## 📄 License
 
 Project distributed under the MIT License.
+
 
